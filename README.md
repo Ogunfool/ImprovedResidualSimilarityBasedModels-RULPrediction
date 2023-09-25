@@ -1,5 +1,6 @@
 # Residual Similarity Based Models
-This repo contains systematically organized notebooks that have different categories of best performing and most commonly explored asset(s) remaining useful life (RUL) estimation models in literature. It explores and categorizes these prognostics strategies extensively.
+This repo contains systematically organized notebooks of different Residual Similarity Based Models for Remaining Useful Life prediction. 
+These models were validated on the NASA turboengine degradation datasets.
 The notebooks are structured in a sequential and incremental order with enough comments to provide a seamless flow for anyone interested in using it.
 This repo is still in progress but feel free to draw ideas from it - Kindly cite this repo if this work is used anywhere.
 ![image](https://github.com/Ogunfool/ImprovedResidualSimilarityBasedModels-RULPrediction/assets/92188038/223e8bda-10b0-409c-93f8-87fe10b53d83)
